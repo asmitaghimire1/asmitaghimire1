@@ -1,10 +1,10 @@
 ## Hi, I'm Asmita ​✨​
 
 🧠​ Computer Engineering student at Khwopa Engineering College<br/>
-🔧 Fixing One Bug at a Time (Usually Introducing Two More)
-🤷‍♂️ Ask Me Anything, But I Might Just Google It First
-🦾 Currently Learning to Speak Fluent Python
-​📫 How to reach me **asmetaghimire1000@gmail.com**
+🔧 Fixing One Bug at a Time (Usually Introducing Two More)<br/>
+🤷‍♂️ Ask Me Anything, But I Might Just Google It First<br/>
+🦾 Currently Learning to Speak Fluent Python<br/>
+​📫 How to reach me **asmetaghimire1000@gmail.com**<br/>
 
 ## Tech Stack 👩‍💻
 <p align="left"> 

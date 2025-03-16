@@ -32,18 +32,14 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript"/>
   </a> 
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="mssql"/>
-  </a> 
+
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
   </a> 
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/PHP-%23778BBE.svg?style=for-the-badge&logo=php&logoColor=white" alt="php"/>
   </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/>
-  </a> 
+
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python"/>
   </a>

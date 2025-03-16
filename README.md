@@ -1,10 +1,7 @@
 ## Hi, I'm Asmita ​✨​
 
 🧠​ Computer Engineering student at Khwopa Engineering College<br/>
-​🌌​ I create themed desktop apps to stay consistent<br/>
-​🎥 I make videos about code and design on [Instagram](https://www.instagram.com/b.telgeuse/)<br/>
-🪻 Download my projects and useful resources/tutorials on my [Gumroad](https://btelgeuse.gumroad.com/)<br/>
-💫 Join the [Star-Lab community](https://discord.gg/a7jQegqYBN) to learn and connect with other coders!<br/>
+​📫 How to reach me **asmetaghimire1000@gmail.com**
 
 ## Tech Stack 👩‍💻
 <p align="left"> 

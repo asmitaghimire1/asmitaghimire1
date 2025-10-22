@@ -1,8 +1,7 @@
 ## Hi, I'm Asmita ​✨​
 
-🧠​ Computer Engineering student at Khwopa Engineering College<br/>
-🐛 Currently Learning to Speak Fluent Python<br/>
-​📫 How to reach me **asmetaghimire1000@gmail.com**<br/>
+🧠​ Attended Khwopa Engineering College<br/>
+​📫 To reach me **asmetaghimire1000@gmail.com**<br/>
 
 ## Tech Stack 👩‍💻
 <p align="left"> 
